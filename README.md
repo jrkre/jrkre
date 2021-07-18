@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrkre
 - 👀 I’m interested in working on, contributing to, and creating my own open source projects.
-- 🌱 I’m currently attending University of Nevada, Reno as a Computer Science and Engineering major/
+- 🌱 I’m currently attending University of Nevada, Reno as a Computer Science and Engineering major.
 - 📫 If you'd like to reach me about anything contact me on Instagram! @_shouja
 
 <!---
