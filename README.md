@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jrkre
-- 👀 I'm currently looking for opportunities in web development, robotics and software engineering - if you're visiting my profile, I'd love to join your team.
-- 🌱 I’m currently attending University of Nevada, Reno as a Computer Science and Engineering major. I am in my 4th year, and currently beginning my M.S./B.S. program.
-- 📫 If you'd like to reach me about anything the best place to contact me is at my email - joshuaknight@unr.edu
+- 👋 hi, i'm jay
+- 👀 i'm currently looking for opportunities in robotics and software engineering - if you're visiting my profile and you like the look of my projects, i'd love to talk to you or your team.
+- 🌱 i’m currently attending university of nevada, reno as a computer science and engineering major. i am in my 4th year, and currently beginning my m.s./b.s. program.
+- 📫 if you'd like to reach me about anything the best place to contact me is at my email - joshuaknight@unr.edu
 
 <!---
 jrkre/jrkre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
