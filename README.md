@@ -1,6 +1,6 @@
 - 👋 hi, i'm jay
 - 👀 i'm currently looking for opportunities in robotics and software engineering - if you're visiting my profile and you like the look of my projects, i'd love to talk to you or your team.
-- 🌱 i’m currently attending university of nevada, reno as a computer science and engineering major. i am in my 4th year, and currently beginning my m.s./b.s. program.
+- 🌱 i’m currently attending university of nevada, reno as a computer science and engineering major.
 - 📫 if you'd like to reach me about anything the best place to contact me is through my website - jayknight.dev/contact
 
 <!---
