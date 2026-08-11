@@ -1,9 +1,20 @@
-- 👋 hi, i'm jay
-- 👀 i'm currently looking for opportunities in robotics and software engineering - if you're visiting my profile and you like the look of my projects, i'd love to talk to you or your team.
-- 🌱 i’m currently attending university of nevada, reno as a computer science and engineering major.
-- 📫 if you'd like to reach me about anything the best place to contact me is through my website - jayknight.dev/contact
+# Jay Knight
 
-<!---
-jrkre/jrkre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**CS + Robotics @ UNR**
+
+I build software, robots, and systems.
+
+`C++` `Python` `C#` `ROS2` `React` `Linux` `Docker`
+
+Currently researching **human-robot interaction** and **adaptive learning**.
+
+### Projects
+
+* **Bloom** — Robotics platform for speech & language therapy
+* **HomeLab** — VMs, containers, and assorted infrastructure
+* **Robot Restoration** — Reviving legacy robots with modern software
+* **Database System** — Full-stack PostgreSQL application
+
+### Links
+
+[GitHub](https://github.com/jrkre) · [LinkedIn](https://linkedin.com/in/jrknight/) · [Website](https://jayknight.dev/)
